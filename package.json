@@ -1,0 +1,31 @@
+{
+  "name": "html-project-starter-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx mix",
+    "watch": "npx mix watch",
+    "prod": "npx mix --production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afradbhuiyan/html-project-starter-template.git"
+  },
+  "keywords": [],
+  "author": "Afrad Bhuiyan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afradbhuiyan/html-project-starter-template/issues"
+  },
+  "homepage": "https://github.com/afradbhuiyan/html-project-starter-template#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  },
+  "devDependencies": {
+    "laravel-mix": "^6.0.25",
+    "resolve-url-loader": "^4.0.0",
+    "sass": "^1.35.1",
+    "sass-loader": "^12.1.0"
+  }
+}
